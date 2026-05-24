@@ -9,6 +9,7 @@ import java.util.List;
 import java.nio.file.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
 @Mojo(name = "merge-sources")
 public class merge extends AbstractMojo {
 
