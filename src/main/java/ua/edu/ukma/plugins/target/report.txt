@@ -1,0 +1,11 @@
+Project report: 
+----Project info----
+Name: lab02 maven plugin
+Description: Plugin to merge Java files and project report
+Version: 1.0-SNAPSHOT
+Group Id: ua.edu.ukma.plugins
+Artifact Id: lab02
+Dependencies: [Dependency {groupId=org.apache.maven, artifactId=maven-plugin-api, version=3.9.6, type=jar}, Dependency {groupId=org.apache.maven.plugin-tools, artifactId=maven-plugin-annotations, version=3.11.0, type=jar}, Dependency {groupId=org.apache.maven, artifactId=maven-core, version=3.9.6, type=jar}]
+----Code info----
+Java files: 2
+Java classes: 2
